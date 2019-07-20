@@ -8,13 +8,13 @@ ITP4910 **S**oftware **D**evelopment **P**roject (**SDP**)  軟件開發項目  
 
 Point Card System  點卡系統  点卡系统
 
-
+___
 
 This open source project is mainly for learning and research purposes.
 
 本開源項目主要為學習探討研究目的  本开源项目主要为学习探讨研究目的
 
-
+___
 
 If you think this infringes your copyright, please let me know and I will delete it immediately.
 
