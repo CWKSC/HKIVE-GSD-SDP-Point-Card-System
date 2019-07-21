@@ -1,7 +1,7 @@
 ## Contents 目錄 目录
 
 1. [What is this ? 這是什麼？ 这是什么？](#what-is-this--這是什麼-这是什么)
-2. [How to start ?](#how-to-start-)
+2. [How to start ?](#how-to-start--怎麼開始？-怎么开始)
 
 ___
 
@@ -31,16 +31,64 @@ This is just a student's work that contains a lot of bug behind it.
 
 ___
 
-## How to start ?
-
-download and open Program\SDP_prototype\SDP_prototype.sln
-
-___
-
 If you think this infringes your copyright, please let me know and I will delete it immediately.
 
 如果你認為這侵犯到您的版權，請通知我，我會立刻刪除。
 
 如果你认为这侵犯到您的版权，请通知我，我会立刻删除。
+
+___
+
+## How to start ? 怎麼開始？ 怎么开始？
+
+#### Simple execution 單純執行 单纯执行：
+
+download and execute `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
+
+下載並執行 `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
+
+下载并执行 `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
+
+___
+
+#### Open the project and view the source code 
+
+#### 打開專案並查看源代碼 打开专案并查看源代码：
+
+download and open `Program\SDP_prototype\SDP_prototype.sln`
+
+下載並打開 `Program\SDP_prototype\SDP_prototype.sln`
+
+下载并打开 `Program\SDP_prototype\SDP_prototype.sln`
+
+___
+
+The version of Visual Studio is vs2017.
+
+Visual Studio 的版本為 vs2017。
+
+___
+
+Need to download the package related to C#, .net 
+
+需要下載與 C#, .net 相關的套件。
+
+需要下载与 C#, .net 相关的套件。
+
+___
+
+Need Microsoft Access 2016
+
+需要 Microsoft Access 2016
+
+___
+
+Platform: Windows 10
+
+平台：Windows 10
+
+___
+
+
 
 
