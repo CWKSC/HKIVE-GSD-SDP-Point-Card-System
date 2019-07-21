@@ -17,7 +17,7 @@ namespace SDP_prototype
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Player.PlayerPointCard_LuckyDraw());
-
+            
             
             UserLogin userLogin;
             while (true)
