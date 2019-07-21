@@ -1,11 +1,7 @@
 ## Contents 目錄 目录
 
-<font size="100">
-
 1. [What is this ? 這是什麼？ 这是什么？](#what-is-this--這是什麼-这是什么)
-2. 
-
-</font>
+2. [How to start ?](#how-to-start-)
 
 ___
 
@@ -32,6 +28,12 @@ This is just a student's work that contains a lot of bug behind it.
 這只是一個學生的作品，背後隱藏著很多bug。
 
 这只是一个学生的作品，背后隐藏着很多的bug。
+
+___
+
+## How to start ?
+
+download and open Program\SDP_prototype\SDP_prototype.sln
 
 ___
 
