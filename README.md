@@ -1,7 +1,7 @@
 ## Contents 目錄 目录
 
 1. [What is this ? 這是什麼？ 这是什么？](#what-is-this--這是什麼-这是什么)
-2. [How to start ?](#how-to-start--怎麼開始？-怎么开始)
+2. [How to start ? 怎麼開始？ 怎么开始？](#how-to-start--怎麼開始-怎么开始)
 
 ___
 
