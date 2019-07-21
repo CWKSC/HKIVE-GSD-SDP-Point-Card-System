@@ -41,7 +41,7 @@ ___
 
 ## How to start ? 怎麼開始？ 怎么开始？
 
-#### Simple execution 單純執行 单纯执行：
+### Simple execution 單純執行 单纯执行：
 
 download and execute `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
 
@@ -51,7 +51,7 @@ download and execute `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
 
 ___
 
-#### Open the project and view the source code 
+### Open the project and view the source code 
 
 #### 打開專案並查看源代碼 打开专案并查看源代码：
 
