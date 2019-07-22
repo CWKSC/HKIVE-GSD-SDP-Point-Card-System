@@ -1,7 +1,8 @@
 ## Contents 目錄 目录
 
 1. [What is this ? 這是什麼？ 这是什么？](#what-is-this--這是什麼-这是什么)
-2. [How to start ? 怎麼開始？ 怎么开始？](#how-to-start--怎麼開始-怎么开始)
+2. [Quick View 快速查看](#quick-view-快速查看)
+3. [How to start ? 怎麼開始？ 怎么开始？](#how-to-start--怎麼開始-怎么开始)
 
 ___
 
@@ -36,6 +37,16 @@ If you think this infringes your copyright, please let me know and I will delete
 如果你認為這侵犯到您的版權，請通知我，我會立刻刪除。
 
 如果你认为这侵犯到您的版权，请通知我，我会立刻删除。
+
+___
+
+## Quick View 快速查看
+
+![](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\Screenshot\SignUp.png)
+
+![](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\Screenshot\SignUp.png)
+
+![](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\Screenshot\PlayerForm.png)
 
 ___
 
