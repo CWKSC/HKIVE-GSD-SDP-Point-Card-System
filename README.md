@@ -42,11 +42,11 @@ ___
 
 ## Quick View 快速查看
 
-![](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\Screenshot\SignUp.png)
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/SignUp.png)
 
-![](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\Screenshot\SignUp.png)
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/SignIn.png)
 
-![](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\Screenshot\PlayerForm.png)
+![](https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png)
 
 ___
 
