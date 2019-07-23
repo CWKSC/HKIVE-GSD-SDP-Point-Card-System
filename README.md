@@ -32,6 +32,14 @@ This is just a student's work that contains a lot of bug behind it.
 
 ___
 
+The UI design reference to https://www.youtube.com/watch?v=eyb7Gla-ePo and https://www.youtube.com/watch?v=16wz84Zm6FQ
+
+UI 設計參考到 https://www.youtube.com/watch?v=eyb7Gla-ePo 和 https://www.youtube.com/watch?v=16wz84Zm6FQ
+
+UI 设计参考到 https://www.youtube.com/watch?v=eyb7Gla-ePo 和 https://www.youtube.com/watch?v=16wz84Zm6FQ
+
+___
+
 If you think this infringes your copyright, please let me know and I will delete it immediately.
 
 如果你認為這侵犯到您的版權，請通知我，我會立刻刪除。
