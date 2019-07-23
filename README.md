@@ -48,9 +48,11 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-<video width="320" height="200" controls preload> 
-    <source src="DemoVideo/Demo.mp4"></source> 
-</video>
+For Video, you can look at `DemoVideo/Demo.mp4`
+
+對於視頻，您可以查看 `DemoVideo / Demo.mp4`
+
+对于视频，您可以查看 `DemoVideo / Demo.mp4`
 
 ___
 
