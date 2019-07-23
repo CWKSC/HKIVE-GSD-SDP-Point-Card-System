@@ -48,7 +48,9 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-<video src="DemoVideo/Demo.mp4" width="320" height="200" controls preload></video>
+<video width="320" height="200" controls preload> 
+    <source src="DemoVideo/Demo.mp4"></source> 
+</video>
 
 ___
 
