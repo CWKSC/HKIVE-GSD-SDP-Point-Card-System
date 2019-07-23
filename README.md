@@ -48,8 +48,8 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4"> </video>
+<video src="DemoVideo/Demo.mp4" width="320" height="200" controls preload></video>
+
 ___
 
 ## How to start ? 怎麼開始？ 怎么开始？
