@@ -48,7 +48,8 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-![image](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\DemoVideo\Demo.gif)
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4"> </video>
 
 ___
 
