@@ -48,7 +48,8 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-<video id="video" controls="" preload="none"> <source id="mp4" src="DemoVideo/Demo.mp4"> </video>
+![image](D:\User\Develop\GitHub\HKIVE-GSD-SDP-Point-Card-System\DemoVideo\Demo.gif)
+
 ___
 
 ## How to start ? 怎麼開始？ 怎么开始？
