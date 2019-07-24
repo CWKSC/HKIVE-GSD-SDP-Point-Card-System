@@ -36,11 +36,35 @@ This is just a student's work that contains a lot of bug behind it.
 
 ___
 
-The UI design reference to https://www.youtube.com/watch?v=eyb7Gla-ePo and https://www.youtube.com/watch?v=16wz84Zm6FQ
+The UI design reference to / UI 設計參考到 /  UI 设计参考到：
 
-UI 設計參考到 https://www.youtube.com/watch?v=eyb7Gla-ePo 和 https://www.youtube.com/watch?v=16wz84Zm6FQ
+[C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ) and
 
-UI 设计参考到 https://www.youtube.com/watch?v=eyb7Gla-ePo 和 https://www.youtube.com/watch?v=16wz84Zm6FQ
+[Modern Flat Design Form Login - VB.NET and C# Bunifu Ui 1.5 現代設計用戶界面 для начинающих - YouTube](https://www.youtube.com/watch?v=eyb7Gla-ePo)
+
+___
+
+For both video I wrote three articles to make exercise, but it is in Chinese.
+
+對於這兩個視頻我寫了三篇文章以作練習，但這是中文的。
+
+对于这两个视频我写了三篇文章以作练习，但这是中文的。
+
+___
+
+[C# Windows Forms 笔记 - Bunifu 插件 - Login Form 制作流程 - 知乎](https://zhuanlan.zhihu.com/p/70764874)
+
+[C# Windows Forms 笔记 - Bunifu 元件开发用户界面，几个问题，无框架拖放移动 - 知乎](https://zhuanlan.zhihu.com/p/70590664)
+
+[C# Windows Forms 笔记 - Bunifu 插件 - 渐变侧面菜单 制作流程 - 知乎](https://zhuanlan.zhihu.com/p/71203618)
+
+___
+
+Icon material and part of the control library are taken from others.
+
+圖標素材以及部分的控件庫均是取自他人。
+
+图标素材以及部分的控件库均是取自他人。
 
 ___
 
