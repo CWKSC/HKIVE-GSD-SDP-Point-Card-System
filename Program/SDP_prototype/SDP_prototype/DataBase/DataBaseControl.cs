@@ -180,7 +180,7 @@ namespace SDP_prototype
             catch (Exception ex)
             {
                 System.Windows.Forms.MessageBox.Show(ex.Message);
-                return "";
+                return null;
             }
         }
 
