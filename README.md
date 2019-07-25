@@ -28,6 +28,38 @@ This open source project is mainly for learning and research purposes.
 
 ___
 
+For Video, you can look at [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
+
+對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
+
+对于视频，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
+
+___
+
+For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+------
+
+In addition, there is a related report : [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
+
+除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
+
+除此之外，有一份相关的报告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
+
+___
+
+this report was written midway and there are many mistakes. You can try to learn more through it.
+
+這份報告是中途撰寫的，有很多錯處。你可以嘗試透過它去了解更多。
+
+这份报告是中途撰写的，有很多错处。你可以尝试透过它去了解更多。
+
+___
+
 This is just a student's work that contains a lot of bug behind it.
 
 這只是一個學生的作品，背後隱藏著很多bug。
@@ -88,11 +120,13 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-For Video, you can look at `DemoVideo/Demo.mp4`
+___
 
-對於視頻，您可以查看 `DemoVideo / Demo.mp4`
+For Video, you can look at [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
 
-对于视频，您可以查看 `DemoVideo / Demo.mp4`
+對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
+
+对于视频，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
 
 ___
 
@@ -101,6 +135,22 @@ For Requirements Document, you can look at [RequirementsDocument.md](https://git
 對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
 对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+___
+
+In addition, there is a related report : [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
+
+除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
+
+除此之外，有一份相关的报告： [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
+
+___
+
+this report was written midway and there are many mistakes. You can try to learn more through it.
+
+這份報告是中途撰寫的，有很多錯處。你可以嘗試透過它去了解更多。
+
+这份报告是中途撰写的，有很多错处。你可以尝试透过它去了解更多。
 
 ___
 
@@ -146,6 +196,14 @@ Need to download the package related to C#, .net
 
 ___
 
+View database : `Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
+
+查看資料庫：`Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
+
+查看资料库：`Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
+
+___
+
 Need Microsoft Access 2016
 
 需要 Microsoft Access 2016
@@ -160,4 +218,5 @@ ___
 
 [back to Contents 返回目錄 返回目录](#contents-目錄-目录)
 
+___
 
