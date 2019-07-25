@@ -96,6 +96,14 @@ For Video, you can look at `DemoVideo/Demo.mp4`
 
 ___
 
+For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
+
+___
+
 ## How to start ? 怎麼開始？ 怎么开始？
 
 [back to Contents 返回目錄 返回目录](#contents-目錄-目录)
