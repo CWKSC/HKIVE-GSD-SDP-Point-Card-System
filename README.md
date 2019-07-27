@@ -186,6 +186,8 @@ The version of Visual Studio is vs2017.
 
 Visual Studio 的版本為 vs2017。
 
+Visual Studio 的版本为 vs2017。
+
 ___
 
 Need to download the package related to C#, .net 
