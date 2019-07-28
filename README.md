@@ -182,11 +182,11 @@ download and open `Program\SDP_prototype\SDP_prototype.sln`
 
 ___
 
-The version of Visual Studio is vs2017.
+The version of Visual Studio is vs2017 / vs2019.
 
-Visual Studio 的版本為 vs2017。
+Visual Studio 的版本為 vs2017 / vs2019。
 
-Visual Studio 的版本为 vs2017。
+Visual Studio 的版本为 vs2017 / vs2019。
 
 ___
 
