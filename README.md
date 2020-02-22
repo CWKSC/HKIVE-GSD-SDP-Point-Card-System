@@ -110,15 +110,11 @@ For Video, you can look at [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Poi
 
 對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
 
-对于视频，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
-
 ___
 
 For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
 對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
-
-对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
 ___
 
@@ -126,15 +122,11 @@ In addition, there is a related report : [Report.pdf](https://github.com/CWKSC/H
 
 除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
 
-除此之外，有一份相关的报告： [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
-
 ___
 
 this report was written midway and there are many mistakes. You can try to learn more through it.
 
 這份報告是中途撰寫的，有很多錯處。你可以嘗試透過它去了解更多。
-
-这份报告是中途撰写的，有很多错处。你可以尝试透过它去了解更多。
 
 ___
 
@@ -144,25 +136,21 @@ ___
 
 ___
 
-### Simple execution 單純執行 单纯执行：
+### Simple execution 單純執行：
 
 download and execute `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
 
 下載並執行 `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
 
-下载并执行 `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
-
 ___
 
 ### Open the project and view the source code 
 
-#### 打開專案並查看源代碼 打开专案并查看源代码：
+#### 打開專案並查看源代碼：
 
 download and open `Program\SDP_prototype\SDP_prototype.sln`
 
 下載並打開 `Program\SDP_prototype\SDP_prototype.sln`
-
-下载并打开 `Program\SDP_prototype\SDP_prototype.sln`
 
 ___
 
@@ -170,23 +158,17 @@ The version of Visual Studio is vs2017 / vs2019.
 
 Visual Studio 的版本為 vs2017 / vs2019。
 
-Visual Studio 的版本为 vs2017 / vs2019。
-
 ___
 
 Need to download the package related to C#, .net 
 
 需要下載與 C#, .net 相關的套件。
 
-需要下载与 C#, .net 相关的套件。
-
 ___
 
 View database : `Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
 
 查看資料庫：`Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
-
-查看资料库：`Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
 
 ___
 
