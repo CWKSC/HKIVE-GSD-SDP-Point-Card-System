@@ -1,24 +1,24 @@
 ## Contents 目錄 目录
 
-1. [What is this ? 這是什麼？ 这是什么？](#what-is-this--這是什麼-这是什么)
+1. [What is this ? 這是什麼？](#what-is-this--這是什麼)
 2. [Quick View 快速查看](#quick-view-快速查看)
-3. [How to start ? 怎麼開始？ 怎么开始？](#how-to-start--怎麼開始-怎么开始)
+3. [How to start ? 怎麼開始？](#how-to-start--怎麼開始-)
 
 ___
 
-## What is this ? 這是什麼？ 这是什么？
+## What is this ? 這是什麼？
 
 [back to Contents 返回目錄 返回目录](#contents-目錄-目录)
 
 ___
 
-**H**ong **K**ong **I**nstitute of **V**ocational **E**ducation (**HKIVE**)  香港專業教育學院  香港专业教育学院
+**H**ong **K**ong **I**nstitute of **V**ocational **E**ducation (**HKIVE**)  香港專業教育學院
 
-HD in **G**ame **S**oftware **D**evelopment (**GSD**)  遊戲軟件開發 高級文憑  游戏软件开发 高级文凭
+HD in **G**ame **S**oftware **D**evelopment (**GSD**)  遊戲軟件開發 高級文憑
 
-ITP4910 **S**oftware **D**evelopment **P**roject (**SDP**)  軟件開發項目  软件开发项目
+ITP4910 **S**oftware **D**evelopment **P**roject (**SDP**) 軟件開發項目
 
-Point Card System  點卡系統  点卡系统
+Point Card System 點卡系統
 
 ___
 
@@ -92,11 +92,11 @@ ___
 
 ___
 
-Icon material and part of the control library are taken from others.
+**Icon material and part of the control library are taken from others.**
 
-圖標素材以及部分的控件庫均是取自他人。
+**圖標素材以及部分的控件庫均是取自他人。**
 
-图标素材以及部分的控件库均是取自他人。
+**图标素材以及部分的控件库均是取自他人。**
 
 ___
 
@@ -154,7 +154,7 @@ this report was written midway and there are many mistakes. You can try to learn
 
 ___
 
-## How to start ? 怎麼開始？ 怎么开始？
+## How to start ? 怎麼開始？
 
 [back to Contents 返回目錄 返回目录](#contents-目錄-目录)
 
