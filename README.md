@@ -1,14 +1,14 @@
-## Contents 目錄 目录
+## Contents 目錄
 
 1. [What is this ? 這是什麼？](#what-is-this--這是什麼)
 2. [Quick View 快速查看](#quick-view-快速查看)
-3. [How to start ? 怎麼開始？](#how-to-start--怎麼開始-)
+3. [How to start ? 怎麼開始？](#how-to-start--怎麼開始)
 
 ___
 
 ## What is this ? 這是什麼？
 
-[back to Contents 返回目錄 返回目录](#contents-目錄-目录)
+[back to Contents 返回目錄](#contents-目錄)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 This open source project is mainly for learning and research purposes.
 
-本開源項目主要為學習探討研究目的  本开源项目主要为学习探讨研究目的
+本開源項目主要為學習探討研究目的
 
 ___
 
@@ -32,15 +32,11 @@ For Video, you can look at [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Poi
 
 對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
 
-对于视频，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
-
 ___
 
 For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
 對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
-
-对于需求文档，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
 ------
 
@@ -48,15 +44,11 @@ In addition, there is a related report : [Report.pdf](https://github.com/CWKSC/H
 
 除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
 
-除此之外，有一份相关的报告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
-
 ___
 
 this report was written midway and there are many mistakes. You can try to learn more through it.
 
 這份報告是中途撰寫的，有很多錯處。你可以嘗試透過它去了解更多。
-
-这份报告是中途撰写的，有很多错处。你可以尝试透过它去了解更多。
 
 ___
 
@@ -64,11 +56,9 @@ This is just a student's work that contains a lot of bug behind it.
 
 這只是一個學生的作品，背後隱藏著很多bug。
 
-这只是一个学生的作品，背后隐藏着很多的bug。
-
 ___
 
-The UI design reference to / UI 設計參考到 /  UI 设计参考到：
+The UI design reference to / UI 設計參考到 ：
 
 [C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ) and
 
@@ -78,9 +68,7 @@ ___
 
 For both video I wrote three articles to make exercise, but it is in Chinese.
 
-對於這兩個視頻我寫了三篇文章以作練習，但這是中文的。
-
-对于这两个视频我写了三篇文章以作练习，但这是中文的。
+對於這兩個視頻我寫了三篇文章以作練習，但這是簡體中文的。
 
 ___
 
@@ -96,21 +84,17 @@ ___
 
 **圖標素材以及部分的控件庫均是取自他人。**
 
-**图标素材以及部分的控件库均是取自他人。**
-
 ___
 
 If you think this infringes your copyright, please let me know and I will delete it immediately.
 
 如果你認為這侵犯到您的版權，請通知我，我會立刻刪除。
 
-如果你认为这侵犯到您的版权，请通知我，我会立刻删除。
-
 ___
 
 ## Quick View 快速查看
 
-[back to Contents 返回目錄 返回目录](#contents-目錄-目录)
+[back to Contents 返回目錄](#contents-目錄)
 
 ___
 
@@ -156,7 +140,7 @@ ___
 
 ## How to start ? 怎麼開始？
 
-[back to Contents 返回目錄 返回目录](#contents-目錄-目录)
+[back to Contents 返回目錄](#contents-目錄)
 
 ___
 
@@ -218,7 +202,7 @@ Platform: Windows 10
 
 ___
 
-[back to Contents 返回目錄 返回目录](#contents-目錄-目录)
+[back to Contents 返回目錄](#contents-目錄)
 
 ___
 
