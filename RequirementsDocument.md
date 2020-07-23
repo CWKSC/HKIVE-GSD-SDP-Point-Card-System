@@ -1,10 +1,8 @@
-## Requirements Document 需求文檔 需求文档 
+## Requirements Document 需求文檔
 
-This is the school's request document
+This is the requirements document given by the school
 
-這是學校給出需求文檔。
-
-这是学校给出需求文档。
+這是學校給出的需求文檔
 
 ___
 
