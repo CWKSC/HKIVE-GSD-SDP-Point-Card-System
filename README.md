@@ -1,76 +1,43 @@
-## Contents 目錄
+## Contents
 
-1. [What is this ? 這是什麼？](#what-is-this--這是什麼)
-2. [Quick View 快速查看](#quick-view-快速查看)
-3. [How to start ? 怎麼開始？](#how-to-start--怎麼開始)
+Language: [zh](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/README_zh.md)
 
-___
+| [What is this?](#what-is-this) | [Quick View](#quick-view) | [How to start?](#how-to-start) |
+| ------------------------------ | ------------------------- | ------------------------------ |
 
-## What is this ? 這是什麼？
+## What is this?
 
-[back to Contents 返回目錄](#contents-目錄)
+**H**ong **K**ong **I**nstitute of **V**ocational **E**ducation (**HKIVE**) 
 
-___
+HD in **G**ame **S**oftware **D**evelopment (**GSD**) 
 
-**H**ong **K**ong **I**nstitute of **V**ocational **E**ducation (**HKIVE**)  香港專業教育學院
+ITP4910 **S**oftware **D**evelopment **P**roject (**SDP**)
 
-HD in **G**ame **S**oftware **D**evelopment (**GSD**)  遊戲軟件開發 高級文憑
-
-ITP4910 **S**oftware **D**evelopment **P**roject (**SDP**) 軟件開發項目
-
-Point Card System 點卡系統
+Point Card System
 
 ___
 
 This open source project is mainly for learning and research purposes.
 
-本開源項目主要為學習探討研究目的
-
-___
-
 For Video, you can look at [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
 
-對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
-
-___
+Or I posted on [Instagram](https://www.instagram.com/p/Bzn0EyknXEz/) before (no latest version)
 
 For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
-對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
-
-------
-
 In addition, there is a related report : [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
-
-除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
-
-___
 
 this report was written midway and there are many mistakes. You can try to learn more through it.
 
-這份報告是中途撰寫的，有很多錯處。你可以嘗試透過它去了解更多。
-
-___
-
 This is just a student's work that contains a lot of bug behind it.
 
-這只是一個學生的作品，背後隱藏著很多bug。
-
-___
-
-The UI design reference to / UI 設計參考到 ：
+The UI design reference to:
 
 [C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ) and
 
 [Modern Flat Design Form Login - VB.NET and C# Bunifu Ui 1.5 現代設計用戶界面 для начинающих - YouTube](https://www.youtube.com/watch?v=eyb7Gla-ePo)
 
-___
-
 For both video I wrote three articles to make exercise, but it is in Chinese.
-
-對於這兩個視頻我寫了三篇文章以作練習，但這是簡體中文的。
-
-___
 
 [C# Windows Forms 笔记 - Bunifu 插件 - Login Form 制作流程 - 知乎](https://zhuanlan.zhihu.com/p/70764874)
 
@@ -78,23 +45,13 @@ ___
 
 [C# Windows Forms 笔记 - Bunifu 插件 - 渐变侧面菜单 制作流程 - 知乎](https://zhuanlan.zhihu.com/p/71203618)
 
-___
-
 **Icon material and part of the control library are taken from others.**
-
-**圖標素材以及部分的控件庫均是取自他人。**
-
-___
 
 If you think this infringes your copyright, please let me know and I will delete it immediately.
 
-如果你認為這侵犯到您的版權，請通知我，我會立刻刪除。
+## Quick View
 
-___
-
-## Quick View 快速查看
-
-[back to Contents 返回目錄](#contents-目錄)
+[back to Contents](#contents)
 
 ___
 
@@ -104,87 +61,32 @@ ___
 
 <img src="https://raw.githubusercontent.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/master/Screenshot/PlayerForm.png" width="50%" height="50%" >
 
-___
+## How to start?
 
-For Video, you can look at [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
-
-對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
+[back to Contents](#contents)
 
 ___
 
-For Requirements Document, you can look at [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
-
-對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
-
-___
-
-In addition, there is a related report : [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
-
-除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
-
-___
-
-this report was written midway and there are many mistakes. You can try to learn more through it.
-
-這份報告是中途撰寫的，有很多錯處。你可以嘗試透過它去了解更多。
-
-___
-
-## How to start ? 怎麼開始？
-
-[back to Contents 返回目錄](#contents-目錄)
-
-___
-
-### Simple execution 單純執行：
+### Simple execution
 
 download and execute `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
 
-下載並執行 `SDP_prototype\SDP_prototype\bin\Debug\SDP_prototype.exe`
-
-___
-
 ### Open the project and view the source code 
-
-#### 打開專案並查看源代碼：
 
 download and open `Program\SDP_prototype\SDP_prototype.sln`
 
-下載並打開 `Program\SDP_prototype\SDP_prototype.sln`
-
-___
-
 The version of Visual Studio is vs2017 / vs2019.
-
-Visual Studio 的版本為 vs2017 / vs2019。
-
-___
 
 Need to download the package related to C#, .net 
 
-需要下載與 C#, .net 相關的套件。
-
-___
-
 View database : `Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
-
-查看資料庫：`Program\SDP_prototype\SDP_prototype\bin\Debug\SDPfinalver.accdb`
-
-___
 
 Need Microsoft Access 2016
 
-需要 Microsoft Access 2016
-
-___
-
 Platform: Windows 10
 
-平台：Windows 10
-
 ___
 
-[back to Contents 返回目錄](#contents-目錄)
+[back to Contents](#contents)
 
 ___
-
