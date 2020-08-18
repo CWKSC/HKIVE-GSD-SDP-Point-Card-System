@@ -38,11 +38,11 @@ ___
 
 The UI design reference to / UI 設計參考到 ：
 
-[C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ) and
+[C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ)
 
 [Modern Flat Design Form Login - VB.NET and C# Bunifu Ui 1.5 現代設計用戶界面 для начинающих - YouTube](https://www.youtube.com/watch?v=eyb7Gla-ePo)
 
-對於這兩個視頻我寫了三篇文章以作練習，但這是簡體中文的。
+對於這兩個視頻我寫了三篇文章以作練習，但這是簡體中文的
 
 ___
 
