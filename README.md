@@ -33,7 +33,7 @@ This is just a student's work that contains a lot of bug behind it.
 
 The UI design reference to:
 
-[C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ) and
+[C#, vb.Net PROGRAMMING - Modern Flat Gradient side menu | Tabs with Bunifu UI 1.5 現代設計用戶界面 - YouTube](https://www.youtube.com/watch?v=16wz84Zm6FQ)
 
 [Modern Flat Design Form Login - VB.NET and C# Bunifu Ui 1.5 現代設計用戶界面 для начинающих - YouTube](https://www.youtube.com/watch?v=eyb7Gla-ePo)
 
