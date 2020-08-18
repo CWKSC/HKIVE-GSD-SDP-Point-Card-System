@@ -26,6 +26,8 @@ ___
 
 對於視頻，您可以查看 [Demo.mp4](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/DemoVideo/Demo.mp4) 
 
+或者我以前在 [Instagram](https://www.instagram.com/p/Bzn0EyknXEz/) 上發布過（不是最新版本）
+
 對於需求文檔，您可以查看 [RequirementsDocument.md](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/RequirementsDocument.md)
 
 除此之外，有一份相關的報告：  [Report.pdf](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/Report.pdf)
