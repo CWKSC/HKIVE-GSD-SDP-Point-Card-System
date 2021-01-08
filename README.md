@@ -6,7 +6,7 @@
 
 ___
 
-Language: [zh](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/README_zh.md)
+Language: [zh 繁體中文](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/README_zh.md)
 
 | [What is this?](#what-is-this) | [Quick View](#quick-view) | [How to start?](#how-to-start) |
 | ------------------------------ | ------------------------- | ------------------------------ |
