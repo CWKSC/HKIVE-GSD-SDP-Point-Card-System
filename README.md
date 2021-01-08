@@ -1,4 +1,8 @@
-## Contents
+**It took about a week to produce, so there are many bugs, such as sql injection(Sorry I didn't learn at that time) =)**
+
+**It’s just school work anyway, don’t be too serious**
+
+**It’s just the first time in my life to do WinForm, the UI looks good, so I put it here**
 
 Language: [zh](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/README_zh.md)
 
