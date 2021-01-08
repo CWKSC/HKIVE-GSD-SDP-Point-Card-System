@@ -4,6 +4,8 @@
 
 **It’s just the first time in my life to do WinForm, the UI looks good, so I put it here**
 
+___
+
 Language: [zh](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System/blob/master/README_zh.md)
 
 | [What is this?](#what-is-this) | [Quick View](#quick-view) | [How to start?](#how-to-start) |
